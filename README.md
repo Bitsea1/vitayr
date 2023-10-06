@@ -3,6 +3,8 @@
 
 # 介绍
 本主题由@geekui分享
+分享人TG：https://t.me/geekui
+TG频道：https://t.me/V2boradUI
 
 # 安装
 下载到theme目录过后要修改当前文件夹名为vitayr，然后在后台选择主题 【vitayr】 就行了
