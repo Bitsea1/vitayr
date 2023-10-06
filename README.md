@@ -13,8 +13,3 @@ TG频道：https://t.me/V2boradUI
 ![image](https://github.com/Bitsea1/vitayr/assets/100432611/837a4c05-73f6-4b7d-8efb-ad815663c084)
 ![image](https://github.com/Bitsea1/vitayr/assets/100432611/27aef837-e6ea-41af-b201-a15f15e5edfc)
 ![image](https://github.com/Bitsea1/vitayr/assets/100432611/6ebec4ac-c3f6-41f7-8fac-7486b3986e46)
-
-
-分享人TG：https://t.me/geekui
-
-TG频道：https://t.me/V2boradUI
